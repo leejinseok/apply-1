@@ -24,7 +24,7 @@
 
 - [프론트엔드 웹 개발자](frontend-web.md)
 
-- [서버 개발자](backend.md)
+- [백엔드 개발자](backend.md)
 
 ## 근무조건
 
