@@ -15,6 +15,7 @@
 
 ## 우대사항
 
+* 광고플랫폼 개발 및 운영 경험
 * ROR(Ruby On Rails), Django, Spring, Laravel 등 한 개 이상의 MVC framework 사용 경험
 * 이벤트 소싱 또는 CQRS 패턴을 적용한 서비스 개발 및 운영 경험
 * Micro architecture를 적용한 서비스 개발 및 운영 경험
