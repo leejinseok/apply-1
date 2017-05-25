@@ -29,5 +29,4 @@
 | 경력 | 보내지 마세요 |
 | 나이 | 보내지 마세요 |
 | 제출 정보 | 성명, 전화번호, 본인이 수행한 광고플랫폼 PM 경험 |
-| 이후 절차	| [개발자 채용 절차](/README.md#recruit-process)를 참고하세요 |
 | 지원방법 | [email withus@classting.com](mailto:withus@classting.com) |
