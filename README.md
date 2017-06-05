@@ -26,6 +26,8 @@
 
 - [백엔드 개발자](backend.md)
 
+- [Data-lab 주니어개발자] (datalab_junior.md)
+
 ## 근무조건
 
 - 근무지 : 강남역 현대카드 스튜디오 블랙
