@@ -20,13 +20,13 @@
 
 하지만, 앞으로도 클래스팅이 가야할 길은 멀고도 험난해 보입니다. 이 길고도 위대한 여정을 헤쳐나갈 수 있도록 함께 머리싸매고 고민하고, 힘들 때는 힘내라고 토닥여주고, 앞에서 끌어주고,  뒤에서 밀어줄 수 있는 함께 할 동반자를 모집합니다.
 
-- [광고플랫폼 PM](advertisement-pm.md)
+- [광고플랫폼 PM](softlab/advertisement-pm.md)
 
-- [프론트엔드 웹 개발자](frontend-web.md)
+- [프론트엔드 웹 개발자](softlab/frontend-web.md)
 
-- [백엔드 개발자](backend.md)
+- [백엔드 개발자](softlab/backend.md)
 
-- [Data-lab 주니어개발자] (datalab_junior.md)
+- [Data-lab 주니어개발자](datalab/junior.md)
 
 ## 근무조건
 
