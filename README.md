@@ -26,7 +26,7 @@
 
 - [Backend engineer for classting](engineers/backend_classting.md)
 
-- [(data-lab) 주니어개발자](datalab/junior.md)
+- [Junior engineer](engineers/junior.md)
 
 ## 근무조건
 
