@@ -1,4 +1,4 @@
-# Junior engieer
+# Junior engineer
 
 
 ## 지원자분들께 궁금한 점
