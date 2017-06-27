@@ -20,6 +20,7 @@
 
 하지만, 앞으로도 클래스팅이 가야할 길은 멀고도 험난해 보입니다. 이 길고도 위대한 여정을 헤쳐나갈 수 있도록 함께 머리싸매고 고민하고, 힘들 때는 힘내라고 토닥여주고, 앞에서 끌어주고,  뒤에서 밀어줄 수 있는 함께 할 동반자를 모집합니다.
 
+- [Android engineer](engineers/android.md)
 - [Software engineer for classting ads](engineers/engineer_ads.md)
 
 - [Frontend web engineer](engineers/frontend-web.md)
