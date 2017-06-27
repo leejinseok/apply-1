@@ -1,4 +1,4 @@
-# 프론트엔드 웹 개발자 채용
+# Software engineer for frontend web
 
 ## 주요업무
 
