@@ -22,7 +22,7 @@
 
 - [(soft-lab) 광고플랫폼 PM](softlab/advertisement-pm.md)
 
-- [(soft-lab) 프론트엔드 웹 개발자](softlab/frontend-web.md)
+- [(soft-lab) 프론트엔드 웹 개발자](engineers/frontend-web.md)
 
 - [(soft-lab) 백엔드 개발자](softlab/backend.md)
 
