@@ -7,10 +7,11 @@
 
 ## 자격요건
 
-* Firebase, Retrofit2, Rxjava, Anko 등 다양한 라이브러리 활용 경험
+* Firebase, Retrofit2, Anko 등 다양한 라이브러리 활용 경험
+* Rxjava등을 활용한 Reactive programming의 이해
 * Android annotations, Dagger2, Kotterknife 등의 DI 활용 경험
-* OOP와 MVP/MVVM 등 UI Architecture에 관한 지식 보유
-* Unit / UI Test 실무 경험자
+* OOP와 MVP/MVVM 등 Pattern을 적용한 프로젝트 경험
+* Unit Test / UI Test Automation 실무 경험자
 
 
 ## 우대사항
@@ -29,4 +30,3 @@
 | 제출 정보 | 성명, 전화번호, 본인이 수행한 프로젝트 경험 또는 본인을 가장 잘 표현 할 수 있는 코드와 설명(GitHub 등을 통해 공개된 코드가 더욱 좋습니다) |
 | 이후 절차	| [개발자 채용 절차](/README.md#recruit-process)를 참고하세요 |
 | 지원방법 | [email withus@classting.com](mailto:withus@classting.com) |
-
