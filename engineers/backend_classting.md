@@ -15,7 +15,7 @@
 
 * DAU 50만(or MAU 100만) 이상 서비스 개발 및 운영 경험
 * 이벤트 소싱 또는 CQRS 패턴을 적용한 서비스 개발 및 운영 경험
-* Micro architecture를 적용한 서비스 개발 및 운영 경험
+* Microservice architecture를 적용한 서비스 개발 및 운영 경험
 * 오픈소스 참여 경험
 
 ## 지원방법
