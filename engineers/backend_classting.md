@@ -8,7 +8,7 @@
 
 * Laravel, ROR(Ruby On Rails), Django, Spring 등 한 개 이상의 MVC framework을 사용하여 상용 서비스 개발에 참여 및 운영 경험 3년 이상
 * nosql db(dynamodb, cassandra, mongoDB)를 이용한 운영 서비스 개발 및 운영 경험 1년 이상
-* CI(Continuous Integration) & CD(Continuous Deploy) 구축 경험
+* CI(Continuous Integration) & CD(Continuous Deployment) 구축 경험
 * 테스트 자동화 및 TDD
 
 ## 우대사항
