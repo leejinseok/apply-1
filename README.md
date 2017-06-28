@@ -14,7 +14,7 @@
 
 2016.8 콘텐츠플랫폼 [러닝카드](https://www.learningcard.com)를 통해 흩어져있는 학습 콘텐츠를 디지털화 하는데 집중하였습니다.
 
-2017.4Q 클래스팅러닝을 통해 클래스팅에 구성된 학급에서 러닝카드의 콘텐츠를 활용하여 Teacher-Aid-Personalised-Learning을 구현하려고 합니다.
+2017.6 [클래스팅 러닝](https://learning.classting.com)을 통해 클래스팅에 구성된 학급에서 러닝카드의 콘텐츠를 활용하여 Teacher-Aid-Personalised-Learning을 구현하려고 합니다.
 
 클래스팅의 긴 여정중에 소프트뱅크벤처스 10억, 파트너스인베스트먼트 30억, 삼성벤처투자 20억 등 총 75억원의 누적투자를 받았습니다.
 
