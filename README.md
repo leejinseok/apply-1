@@ -4,9 +4,9 @@
 
 클래스팅이 걸어온 위대하고도 험난한 도전의 길은 다음과 같습니다.
 
-2012.3 학급SNS [클래스팅](https://www.classting.com)을 통해 교사의 학급'관리'의 부담을 줄여 교사들이 교육에 더 집중할 수 있도록.
+2012.3 학급SNS [클래스팅](https://www.classting.com)을 통해 교사의 학급관리와 소통의 부담을 줄여 교육에 더 집중할 수 있도록 했습니다.
 
-2016.8 콘텐츠플랫폼 [클래스팅 러닝 플러스](https://learningplus.classting.com)를 통해 흩어져있는 학습 콘텐츠 디지털화.
+2016.8 콘텐츠플랫폼 [클래스팅 러닝 플러스](https://learningplus.classting.com)를 통해 흩어져있는 학습 콘텐츠 디지털화 했습니다.
 
 2017.6 [클래스팅 러닝](https://learning.classting.com)을 통해 클래스팅에 구성된 학급에서 러닝카드의 콘텐츠를 활용하여 Teacher aided Personalized Learning을 구현하려고 합니다.
 
