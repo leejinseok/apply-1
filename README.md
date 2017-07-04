@@ -1,3 +1,15 @@
+클래스팅과 함께 더 나은 교육 환경을 만들어 갈 팀원을 찾습니다.
+
+- [Android Software Engineer](engineers/android.md)
+
+- [Software Engineer, Classting Ads](engineers/engineer_ads.md)
+
+- [Front End Web Software Engineer](engineers/frontend-web.md)
+
+- [Back End Software Engineer](engineers/backend_classting.md)
+
+- [Junior Software Engineer](engineers/junior.md)
+
 클래스팅은 한 명의 교사가 많은 학생을 가르쳐야하는 상황에서도 최고의 교육을 할 수 있는 서비스를 개발하고, 다음 세대를 위해 더 나은 교육 환경을 준비합니다.
 
 클래스팅이 생각하는 교육의 궁극적 목표는 `아이+1`입니다. 아이 안에 있는 잠재력과 변화를 끌어내는게 교육의 의미라고 생각합니다. 하지만, 교사 한 명당 학생 수가 너무 많은 시스템의 한계로 현실에서는 이러한 교육의 목표를 이루는 것이 어렵습니다. 클래스팅은 이러한 현실을 기술을 이용해 극복하여 보탬이 되고자 합니다.
@@ -14,15 +26,6 @@
 
 앞으로도 클래스팅은이 가야할 길은 멀고도 험난해 보입니다. 이 길고도 위대한 여정을 헤쳐나갈 수 있도록 함께 머리싸매고 고민하고, 힘들 때는 힘내라고 토닥여주고, 앞에서 끌어주고,  뒤에서 밀어줄 수 있는 함께 할 동반자를 모집합니다.
 
-- [Android Software Engineer](engineers/android.md)
-
-- [Software Engineer, Classting Ads](engineers/engineer_ads.md)
-
-- [Front End Web Software Engineer](engineers/frontend-web.md)
-
-- [Back End Software Engineer](engineers/backend_classting.md)
-
-- [Junior Software Engineer](engineers/junior.md)
 
 ## 근무조건
 
