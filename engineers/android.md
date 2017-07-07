@@ -7,10 +7,10 @@
 ## 자격요건
 
 * 안드로이드 개발 및 운영 3년 이상
-* Firebase, Retrofit2, Rxjava, Anko 등 다양한 라이브러리 활용 경험
-* Android annotations, Dagger2, Kotterknife 등의 DI 활용 경험
-* OOP와 MVP/MVVM 등 UI Architecture에 관한 지식 보유
-* Unit Test 실무 경험자
+* Firebase, Retrofit2, Anko 등 다양한 라이브러리 활용 경험
+* Rxjava등을 활용한 Reactive programming의 이해
+* OOP와 MVP/MVVM 등 Pattern을 적용한 프로젝트 경험
+* Unit Test / UI Test Automation 실무 경험자
 
 ## 우대사항
 * Kotlin 언어 사용 능력
