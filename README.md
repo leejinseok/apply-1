@@ -4,9 +4,9 @@
 
 - [Software Engineer, Classting Ads](engineers/engineer_ads.md)
 
-- [Front End Web Software Engineer](engineers/frontend-web.md)
+- [Frontend Web Software Engineer](engineers/frontend-web.md)
 
-- [Back End Software Engineer](engineers/backend_classting.md)
+- [Backend Software Engineer](engineers/backend_classting.md)
 
 - [Junior Software Engineer](engineers/junior.md)
 
